@@ -1,9 +1,19 @@
 <html>
 
-<header>
-</header>
+
 <body>
+<<<<<<< HEAD
 <ul></ul>
+=======
+<header>
+<h1>GIt</h1>
+</header>
+<ul>
+<li>git 이란</li>
+<li>버전</li>
+<LI>new branch 버전</li>
+</ul>
+>>>>>>> 실험
 </body>
 
 
