@@ -20,4 +20,5 @@
 <li>브랜친</li>
 <li>충돌</li>
 <li>원격저장소</li>
+<li>push</li>
 </html>
