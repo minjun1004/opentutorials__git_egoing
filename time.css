@@ -1,0 +1,12 @@
+html body {
+    margin: 0;
+}
+header {
+    text-align: center;
+}
+#time-box {
+    border: solid 1px black;
+    width: 200px;
+    margin: 5px auto;
+    border-radius: 10px;
+}
